@@ -1,0 +1,1 @@
+# ADN iOS AppLovin Adapter
